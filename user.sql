@@ -2,5 +2,6 @@ CREATE TABLE Usuario (
   id bigint,
   nombre varchar(50),
   apellido varchar(50),
-  direccion varchar(200)
+  direccion varchar(200),
+  telefono varchar(13)
 );
